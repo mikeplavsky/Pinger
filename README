@@ -1,0 +1,6 @@
+You need IronPython for running this utility
+Here is the command line: 
+
+<IronPython Directory>/ipy.exe ping.py -u url -l logfile
+
+It calls given URL randomly in the range [0,30 seconds]
