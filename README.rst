@@ -1,5 +1,6 @@
-You need IronPython for running this utility
-Here is the command line: 
+You need `IronPython <http://ironpython.codeplex.com>`_ for running this utility
+
+Command line: 
 
 <IronPython Directory>/ipy.exe ping.py -u url -l logfile
 
